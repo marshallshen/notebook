@@ -1,0 +1,11 @@
+A: Audience
+N: Notebook
+
+Directive
+-----------------
+A: "I didn't feel very happy today"
+N: "Hmm, why is that?"
+
+A: "I am happy"
+N: "Yeah, you wanna tell me more?!"
+
